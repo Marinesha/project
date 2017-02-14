@@ -1,0 +1,19 @@
+body
+    {
+	background-image: url(img/blue.jpg);
+}
+
+.photo
+{
+    height: 400px;
+    width: 400px;
+   margin-right: 50px;
+}
+.contacts
+{
+    text-align:  center;
+}
+.marine
+{
+    margin-left: 50px;
+}
